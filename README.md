@@ -21,23 +21,23 @@
 
 ## 📊 Highlighted Projects
 
-### 1. [Project Name 1: e.g., Customer Churn Prediction]
+### 1. [Customer Churn Prediction](./customer-churn-prediction)
 * **Description:** A machine learning model to predict customer churn using historical data.
 * **Tech Stack:** Python, Pandas, Scikit-learn, XGBoost.
 * **Key Results:** Achieved an accuracy of 85% and identified the top 3 factors contributing to churn.
-* **Link:** [View Project](link-to-project-folder-or-notebook)
+* **Link:** [View Project](./customer-churn-prediction)
 
-### 2. [Project Name 2: e.g., E-commerce Sales Analysis]
+### 2. [E-commerce Sales Analysis](./e-commerce-sales-analysis)
 * **Description:** Exploratory Data Analysis (EDA) on an e-commerce dataset to discover seasonal trends and customer buying behavior.
 * **Tech Stack:** Python, Seaborn, Matplotlib, SQL.
 * **Key Results:** Uncovered a 20% sales spike in Q4 and provided actionable recommendations for targeted marketing.
-* **Link:** [View Project](link-to-project-folder-or-notebook)
+* **Link:** [View Project](./e-commerce-sales-analysis)
 
-### 3. [Project Name 3: e.g., Sentiment Analysis]
+### 3. [Sentiment Analysis](./sentiment-analysis)
 * **Description:** Natural Language Processing (NLP) project to classify product reviews into positive, negative, and neutral sentiments.
 * **Tech Stack:** Python, NLTK/Spacy.
 * **Key Results:** Built a model that successfully classified sentiments with 88% precision.
-* **Link:** [View Project](link-to-project-folder-or-notebook)
+* **Link:** [View Project](./sentiment-analysis)
 
 ---
 
