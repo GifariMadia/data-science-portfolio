@@ -1,5 +1,7 @@
 # Sentiment Analysis
 
+[View the Jupyter Notebook](./Sentiment_Analysis.ipynb)
+
 ## 📊 Dataset
 - **Source:** [Twitter API / Amazon Product Reviews / Kaggle]
 - **Description:** A text dataset containing user reviews or tweets. Each text entry is labeled with a sentiment class (e.g., Positive, Negative, Neutral).

@@ -1,5 +1,7 @@
 # Customer Churn Prediction
 
+[View the Jupyter Notebook](./Customer_Churn_Prediction.ipynb)
+
 ## 📊 Dataset
 - **Source:** [Kaggle / Internal Database]
 - **Description:** This dataset contains historical records of customers, including demographics, account information, and service usage. The target variable is `Churn` (whether the customer left the company or not).

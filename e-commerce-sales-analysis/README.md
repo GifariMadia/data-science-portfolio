@@ -1,5 +1,7 @@
 # E-commerce Sales Analysis
 
+[View the Jupyter Notebook](./Sales_Forecasting.ipynb)
+
 ## 📊 Dataset
 - **Source:** [Kaggle / Company Database]
 - **Description:** A transactional dataset containing purchases made across an e-commerce platform over the period of one year. Includes features like `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, and `Country`.
