@@ -5,9 +5,9 @@
 
 ## 👩‍💻 About Me
 - 🔭 **Current Focus:** Looking for a Data Science Internship opportunity.
-- 🎓 **Education:** [Your Degree / University]
+- 🎓 **Education:** Informatics (AI Concentration) / President University
 - 💡 **Interests:** Machine Learning, Data Visualization, Predictive Analytics.
-- 🤝 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
+- 🤝 **Let's Connect:** [LinkedIn](https://linkedin.com/in/gifarimadia) | [Email](mailto:gifariputramadia@gmail.com)
 
 ---
 
